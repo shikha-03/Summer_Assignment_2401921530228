@@ -15,4 +15,4 @@ public:
         }
         return (double) maxSum/k;
     }
-};
+}
